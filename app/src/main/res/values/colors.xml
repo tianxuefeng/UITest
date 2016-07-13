@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+        <color name="background">#ffffff</color>
+        <color name="grey01">#f8f8f8</color>
+        <color name="grey02">#f8f8f8</color>
+        <color name="grey03">#cccccc</color>
+        <color name="grey04">#444444</color>
+        <color name="grey05">#454545</color>
+        <color name="grey06">#DCD8D8</color>
+        <color name="white01">#FFFFFF</color>
+        <color name="blue01">#3399ff</color>
+        <color name="blue2">#B0E0E6</color>
+        <color name="brown">#a39371</color>
+        <color name="brown1">#DAD1C7</color>
+        <color name="brown2">#99F7D3A7</color>
+        <color name="brown3">#99AD821F</color>
+        <color name="authenticate"> #BCB3A9</color>
+        <color name="errorMessageColor">#EC7063</color>
+        <color name="successMessageColor">#27AE60</color>
+        <color name="black">#000000</color>
+        <color name="red">#FF0000</color>
+        <color name="green">#32CD32</color>
+
+</resources>

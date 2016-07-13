@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XF Timbre</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_search">Search new RFID Scanner</string>
+    <string name="action_discover">Finde New Scanner</string>
+    <string name="device_name">Scanner Serial Number</string>
+    <string name="device_mac">Scanner B/T Mac Address</string>
+    <string name="btn_scanTag">Scan</string>
+    <string name="btn_authenticate">Authenticate</string>
+    <string name="btn_addEmail">Add Email</string>
+
+    <string name="btn_transfers">Transfers</string>
+    <string name="btn_create">Create Transfer</string>
+    <string name="btn_in_acknowledge">Acknowledge Transfer</string>
+    <string name="btn_out_cancel">Cancel Transfer</string>
+
+    <string name="btn_Add_Tray">Add Tray</string>
+    <string name="btn_Add_Email">Add</string>
+
+    <string name="btn_Edit_Tray">Update Tray</string>
+    <string name="btn_Edit_Email">Update</string>
+    <string name="btn_del_Email">Delete</string>
+    <string name="btn_Reset">Reset</string>
+    <string name="btn_addtray_ScanTag">Scan</string>
+    <string name="btn_loans">Loans</string>
+
+    <string name="btn_check_in">Check In</string>
+    <string name="btn_stocktake">Stocktake</string>
+    <string name="btn_get_list">Get list</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_generate_report">Generate Report</string>
+    <string name="btn_search_done">Done</string>
+    <string name="btn_show_stocktake_list_update">Update</string>
+
+    <string name="btn_control_card_mgmt">Card Management</string>
+    <string name="btn_control_traymgt">Tray Management </string>
+    <string name="btn_setting_addemail">Administrator Setting</string>
+    <string name="btn_control_reports">Report</string>
+    <string name="btn_control_SystemSetting">System/Alert Setting</string>
+    <string name="btn_connect_reader">Connect reader</string>
+    <string name="btn_check_out">Check Out</string>
+    <string name="edt_userName">enter username</string>
+    <string name="chk_status"></string>
+    <string name="edt_pswd">enter password</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="logo">Logo</string>
+    <string name="selectdate">Select date</string>
+    <string name="Not_Found">Not Found</string>
+    <string name="message_login_success">Login successfully.</string>
+    <string name="message_login_fail">Login fail.</string>
+    <string name="message_wrong_username_pswd">Wrong username and password.</string>
+    <string name="message_error_check_network">Please check network setting.</string>
+    <string name="message_error_unknown_exception">Please enter correct URL in Config File.</string>
+    <string name="message_error_server_timeout">Network connection timeout, please try again.</string>
+    <string name="message_error_general">General error.</string>
+    <string name="message_create_success">Created successfully.</string>
+    <string name="message_create_fail">Creating fail.</string>
+
+    <string name="message_not_halal">The tray does not belong to Halal Stall.</string>
+    <string name="message_not_halal_tray">Please choose the Non-Halal Tray Type.</string>
+    <string name="message_halal_tray">Please choose the Halal Tray Type.</string>
+    <string name="message_not_valid">This is not a valid tag.</string>
+    <string name="message_halal">The tray does not belong to non-Halal Stall.</string>
+    <string name="message_item_selected">Item is already selected.</string>
+    <string name="message_update_success">Updated successfully.</string>
+    <string name="message_update_fail">Update fail.</string>
+    <string name="message_prompt_select">Please select the item first.</string>
+    <string name="message_no_item">There is no item in the list.</string>
+    <string name="message_no_item_to_update">There is no item to update.</string>
+    <string name="message_check_in_success">Check in successfully.</string>
+    <string name="message_check_in_fail">Check in successfully.</string>
+    <string name="message_prompt_select_date">Please select the date.</string>
+    <string name="message_prompt_enter_remarks">Please enter purpose.</string>
+    <string name="message_check_out_success">are checked out successfully.</string>
+    <string name="message_Report_success">Report generated successfully.</string>
+    <string name="message_Report_Fail">Failed to generate Report.</string>
+    <string name="message_Report_nothing">There is nothing to generate Report.</string>
+    <string name="message_Report_noemail">Please configure Email address. </string>
+    <string name="message_add_tray_success">Tray added successfully.</string>
+    <string name="message_add_email_success">Email added successfully.</string>
+    <string name="message_update_tray_success">Tray updated successfully.</string>
+
+    <string name="message_Authenticate_fail">This ID does not belong to this stall.</string>
+    <string name="message_invalid_card">Invalid card.</string>
+    <string name="message_add_tray_fail">Add Tray fail.</string>
+    <string name="message_add_email_fail">Add Email fail.</string>
+    <string name="message_del_email_fail">Delete Email fail.</string>
+    <string name="message_del_email_success">Delete Email successfully.</string>
+    <string name="message_Select_something">Select Something.</string>
+
+    <string name="message_Select_Stall">Cannot find the Stall Name.</string>
+    <string name="message_Select_Type">Cannot find the Tray Type.</string>
+    <string name="message_name">Please Enter The Name</string>
+    <string name="message_email">Please Enter The Email</string>
+    <string name="message_transfer_success">Transfer now pending acknowledgement.</string>
+    <string name="message_transfer_fail">Transfer fail.</string>
+    <string name="message_no_dept">The user has no division.</string>
+    <string name="message_no_function">There is no function for this user. Please contact system administrator.</string>
+    <string name="message_no_user_id">User ID or username or division ID is missing.</string>
+    <string name="message_no_loc">There is no location.</string>
+    <string name="message_prompt_select_location">Please select the location.</string>
+    <string name="message_illegal_character">Illegal character.</string>
+    <string name="message_no_div">Asset does not belong to your division.</string>
+    <string name="message_pending_transfer">Asset is pending transfer.</string>
+
+    <string name="message_unavailable_Tag">The tag is already registered.</string>
+    <string name="message_prompt_to_scan">Please scan the asset.</string>
+    <string name="message_blank"></string>
+    <string name="msg_prompt_valid_stall">Please select the correct stall.</string>
+    <string name="message_prompt_correct_date">Please choose a future date.</string>
+    <string name="message_invalid_config_detected">Invalid configuration detected in config file.</string>
+    <string name="message_invalid_parse_xml">Invalid XML format in config file.</string>
+
+    <string name="txt_division">Division: </string>
+    <string name="txt_end_date">Return date: </string>
+    <string name="txt_checkout_from">Check out from: </string>
+    <string name="txt_checkout_to">Check out To: </string>
+    <string name="txt_checkin_from">Check in from: </string>
+    <string name="txt_checkin_to">Check in To: </string>
+    <string name="txt_remark">Purpose: </string>
+    <string name="txt_location">Location: </string>
+    <string name="txt_promptLabel">Type the remark: </string>
+    <string name="title_activity_tab">Asset Details</string>
+    <string name="title_activity_scan_asset_tag">Asset Details</string>
+    <string name="title_activity_control_panel">Home Menu</string>
+    <string name="title_activity_stocktake_tab">Transfers</string>
+    <string name="title_activity_create_transfer">Create Transfer</string>
+    <string name="title_activity_loans">Loans</string>
+    <string name="title_activity_check_out">Check Out</string>
+    <string name="title_activity_check_in">Check In</string>
+    <string name="title_activity_get_outstanding_assets_from_loan">Outstanding Assets From Loan</string>
+    <string name="title_activity_stocktake">Stocktake</string>
+    <string name="title_activity_get_stocktake_list">Get Stocktake List</string>
+    <string name="title_activity_show_stocktake_list">Show Stocktake List</string>
+    <string name="title_activity_search">Search Trays</string>
+    <string name="title_activity_no_tag_list_fragment">No Tag List</string>
+    <string name="title_activity_scanning_artepop">ScanningArtepop</string>
+    <string name="title_activity_add_tray">Add Tray</string>
+    <string name="title_activity_traymanagement">Tray Management Menu</string>
+    <string name="btn_add_tray">Add Tray</string>
+    <string name="btn_edit_tray">Edit Tray</string>
+    <string name="title_activity_search_tray">Search</string>
+    <string name="title_activity_edit_tray">Update Tray Detail</string>
+    <string name="lbl_tag_id">Tag ID:</string>
+    <string name="lbl_name">Name:</string>
+    <string name="lbl_traytype">Tray Type:</string>
+    <string name="lbl_email">Email:</string>
+    <string name="lbl_status">Loan:</string>
+    <string name="lbl_stallname">Stall:</string>
+    <string name="spinner_prompt_msg">-- Select --</string>
+
+    <string name="title_activity_result_list_view">Tray Details</string>
+    <string name="title_activity_bluetoothdevice">Bluetoothdevice</string>
+    <string name="title_activity_connect_to_bluetooth">ConnectToBluetooth</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_activity_system_setting">System Settings Menu</string>
+    <string name="title_activity_add_email_list">AddEmailListActivity</string>
+    <string name="title_activity_email_list">System Administrators</string>
+    <string name="title_activity_edit_email">Update System Administrator</string>
+    <string name="title_activity_stall_list">StallListActivity</string>
+    <string name="title_activity_tray_type_list">TrayTypeList</string>
+    <string name="msg_prompt_scan_correct">Please scan the correct tag.</string>
+    <string name="tv_card_id">Card ID:</string>
+    <string name="btn_ss_Reset">Reset</string>
+
+
+    <!-- chinese characters -->
+    <string name="btn_start_scan_tag_ch">Start Scan\n(&#24320;&#22987;)</string>
+    <string name="btn_stop_scan_ch">Stop Scan\n(&#20572;&#27490;)</string>
+    <string name="btn_check_out_ch">Check Out\n(&#23436;&#25104;)</string>
+    <string name="btn_control_checkout_ch">Check Out\n(&#23436;&#25104;)</string>
+    <string name="btn_home_checkout_ch">Check Out\n(&#20511;&#20986;&#25176;&#30424;)</string>
+    <string name="btn_reset_ch">Reset\n(&#36824;&#21407;)</string>
+    <string name="btn_yes_ch">Yes (&#26159;)</string>
+    <string name="btn_no_ch">No (&#21542;)</string>
+    <string name="btn_ok_ch">Ok (&#22909;)</string>
+    <string name="btn_sign_in_ch">Sign In\n(&#30331;&#24405;)</string>
+
+
+    <string name="msg_tray_checked_out_success_ch">%1$d tray(s) are checked out.\n(%2$d &#25805;&#20316;&#25104;&#21151;)</string>
+    <string name="msg_check_out_fail_ch">Check out fail.\n(&#25805;&#20316;&#22833;&#36133;) </string>
+    <string name="msg_spinner_prompt_checkout_ch">-- Authenticate First --</string>
+    <string name="msg_alertbox_invalid_card_ch">Invalid Card (&#21345;&#26080;&#25928;)</string>
+    <string name="msg_scanned_tray_ch">Tray is already scanned. (&#24050;&#25195;&#25551;)</string>
+    <string name="msg_on_loan_ch">Tray is on loan. (&#20351;&#29992;&#20013;)</string>
+    <string name="msg_prompt_stall_ch">Please select stall. (&#36873;&#25321;&#22833;&#36895;)</string>
+    <string name="msg_prompt_authenticate_ch">Authenticate First.</string>
+    <string name="msg_device_connected_ch">Please wait, scanning bluetooth device...(&#35831;&#31245;&#31561;&#65292;&#34013;&#29273;&#35774;&#22791;&#25195;&#25551;&#20013;...)</string>
+    <string name="msg_connected_ch">Connected (&#24050;&#36830;&#25509;)</string>
+    <string name="msg_disconnected_ch">Disconnected (&#26410;&#36830;&#25509;)</string>
+    <string name="msg_not_found_ch">Not Found (&#26410;&#21457;&#29616;&#35774;&#22791;)</string>
+    <string name="msg_not_connected_network_ch">Not connected wifi connection.\n(&#26080;&#32447;&#32593;&#32476;&#26410;&#36830;&#25509;)</string>
+    <string name="msg_no_tray_ch">No tray to checkout. (&#26080;&#25176;&#30424;&#20511;&#20986;)</string>
+    <string name="msg_no_tray_anymore_ch">No tray to checkout anymore. (&#25152;&#26377;&#25176;&#30424;&#24050;&#20511;&#20986;)</string>
+
+    <string name="tv_trays_ch">Trays (&#25176;&#30424;)</string>
+
+
+    <string name="title_alertbox_device_list_ch">Device List (&#35774;&#22791;&#21015;&#34920;)</string>
+
+    <string name="title_alertbox_warning_ch">Warning (&#35686;&#21578;)!</string>
+    <string name="title_alertbox_confirm_ch">Confirming (&#30830;&#23450;)!</string>
+    <string name="title_alertbox_no_tray_info_ch">Information (&#20449;&#24687;)!</string>
+    <string name="title_activity_card_mgmt">Card Management</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="spin_prompt_bank">NO MASK</string>
+    <string name="prompt_access_epc">PC/EPC</string>
+    <string name="prompt_lock_kill_pwd">Kill PWD skip</string>
+    <string name="prompt_lock_access_pwd">Access PWD skip</string>
+    <string name="prompt_lock_uii_mem">UII MEM skip</string>
+    <string name="prompt_lock_tid_mem">TID MEM skip</string>
+    <string name="prompt_lock_user_mem">User MEM skip</string>
+    <string name="prompt_config_query_session">S00</string>
+    <string name="prompt_config_target_ab">AB</string>
+    <string name="prompt_config_q">~ 32 tags</string>
+    <string name="title_activity_mask">MaskActivity</string>
+
+    <string name="welcometunity">Welcome Tunity</string>
+
+</resources>
